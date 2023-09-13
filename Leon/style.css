@@ -1,0 +1,17 @@
+@keyframes rainbowText {
+    0% {
+        color: red;
+    }
+    25% {
+        color: yellow;
+    }
+    50% {
+        color: green;
+    }
+    75% {
+        color: blue;
+    }
+    100% {
+        color: purple;
+    }
+}
